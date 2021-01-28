@@ -1,24 +1,14 @@
 # README
+Helps find the nearest point of interest. Gives altenatives on walking/driving distance depending on weather contitions and user preference.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Build:
 
-Things you may want to cover:
+* Ruby on Rails
 
-* Ruby version
+* Vue.js
 
-* System dependencies
+* OpenWeather API
 
-* Configuration
+* Mapbox API
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Bootstrap
